@@ -1,6 +1,7 @@
 ## A pair of functions that cache the inverse of a matrix
 ## If the inverse has already been calculated (and the matrix has not changed), 
 ## then the cacheSolve should retrieve the inverse from the cache.
+## Ryan Zaari Dec 19th,2014
 
 ## This function creates a special "matrix" object/list that can cache its inverse
 
